@@ -5,6 +5,8 @@ Cricket
 Football
 Baseball
 
+Hockey
+Badminton
 
 
 Thanks....
